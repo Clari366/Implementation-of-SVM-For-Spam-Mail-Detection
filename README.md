@@ -63,10 +63,21 @@ print(cl)
 ```
 
 ## Output:
+DATA:
+
+<img width="917" height="502" alt="328882696-5d1f74f3-8c4b-4fa4-b393-1b43b1c65733" src="https://github.com/user-attachments/assets/0a0254c8-e168-4fa9-9a5e-c0c63ce9aa6f" />
+
+Confusion matrix:
+
+<img width="125" height="48" alt="328883151-98ae0d93-d355-43f3-b59a-52bb58e13d5e" src="https://github.com/user-attachments/assets/6a534a38-30a3-42b4-883d-139e6d8d6d2e" />
+
+classification:
 
 <img width="602" height="221" alt="Screenshot 2025-10-29 205843" src="https://github.com/user-attachments/assets/04d05fbe-6c6c-4b6e-a7ab-2e9f31d5b0f9" />
 
+Accuracy:
 
+<img width="237" height="38" alt="328883112-d1d69362-7f5b-4249-a95b-e9f5e894a917" src="https://github.com/user-attachments/assets/cabbb73e-1900-467c-b27b-9d49cdc945d0" />
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
